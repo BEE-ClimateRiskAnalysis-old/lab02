@@ -1,4 +1,4 @@
-# Week 2 Lab - Distributions and the Galton Board
+# Week 2 Lab - The Price Is Right, Apparently
 
 This repository contains the lab notebook for Week 2 of BEE 6940, Climate Risk Analysis. 
 
@@ -41,10 +41,13 @@ If enrolled in the class, a PDF of the completed notebook, **with all cells eval
 After completing this lab, students will be able to:
 - sample from distributions with `Distributions.jl`;
 - describe under what conditions normal distributions arise;
-- assess whether normal distributions are reasonable descriptions of a data set.
+- assess whether normal distributions are reasonable descriptions of a data set;
+- maximize expected utility for decisions under well-characterized uncertainties.
 
 ## Dependencies
 
 This notebook uses the following packages:
 - `Plots.jl`
 - `Distributions.jl`
+- `StatsBase.jl`
+- `Optim.jl`
