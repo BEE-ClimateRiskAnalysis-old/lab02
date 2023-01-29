@@ -42,7 +42,7 @@ After completing this lab, students will be able to:
 - sample from distributions with `Distributions.jl`;
 - describe under what conditions normal distributions arise;
 - assess whether normal distributions are reasonable descriptions of a data set;
-- maximize expected utility for decisions under well-characterized uncertainties.
+- use Monte Carlo to compute expected values of functions.
 
 ## Dependencies
 
